@@ -10,14 +10,14 @@
     role_install_broker: true
     role_install_interconnect: false
 
-  vars_prompt:
-    - name: "rhn_username"
-      prompt: "Enter Your Red Hat Customer Portal Username"
-      private: no
-
-    - name: "rhn_password"
-      prompt: "Enter Your Red Hat Customer Portal Password"
-      private: yes
+#   vars_prompt:
+#     - name: "rhn_username"
+#       prompt: "Enter Your Red Hat Customer Portal Username"
+#       private: no
+# 
+#     - name: "rhn_password"
+#       prompt: "Enter Your Red Hat Customer Portal Password"
+#       private: yes
 
   roles:
     - role: redhat-cop.jboss_common
