@@ -20,5 +20,5 @@
 #       private: yes
 
   roles:
-    - role: redhat-cop.jboss_common
+    - role: redhat-cop.jboss-common
     - role: redhat-cop.jboss_amq
