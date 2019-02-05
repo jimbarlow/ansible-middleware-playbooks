@@ -15,5 +15,5 @@
 #       private: yes
 
   roles:
-    - redhat-cop.jboss_common
-    - redhat-cop.jboss_eap
+    - redhat-cop.jboss-common
+    - redhat-cop.jboss-eap
