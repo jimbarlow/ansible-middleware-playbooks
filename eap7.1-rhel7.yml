@@ -16,4 +16,4 @@
 
   roles:
     - redhat-cop.jboss-common
-    - redhat-cop.jboss-eap
+    - redhat-cop.jboss_eap
