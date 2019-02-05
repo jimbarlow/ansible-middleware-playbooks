@@ -1,11 +1,12 @@
 [jboss_eap_rhel_hosts]
-servera ansible_host=192.168.144.41
-# serverb ansible_host=192.168.144.42
-# serverc ansible_host=192.168.144.43
+servera
+# serverb 
+# serverc
 
 [jboss_eap_centos_hosts]
 
 [jboss_amq_rhel_hosts]
+serverb
 
 [jboss_fuse_rhel_hosts]
 
