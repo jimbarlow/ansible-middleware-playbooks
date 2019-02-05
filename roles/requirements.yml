@@ -2,11 +2,8 @@
 
 # Install a role from the Ansible Galaxy
 - src: redhat-cop.jboss-common
-
-# Install a role from the Ansible Galaxy
-- src: redhat-cop.jboss_amq
-
 - src: redhat-copy.jboss_eap
+# - src: redhat-cop.jboss_amq
 
 # # Install a role from GitHub
 # - name: opendaylight
